@@ -1,0 +1,43 @@
+/* ______________________________________________________________________________________________________________________________________________
+CONTENT:	Choice Cuts
+AUTHORs:		Mason Brown, etc.
+______________________________________________________________________________________________________________________________________________
+
+TABLE OF CONTENTS:
+1. imports
+2. html root
+3. typograpy
+4. forms
+5. content
+
+=============================================================================================================================================== */
+
+/* 1. IMPORTS  ================================================================================================================================ */
+@import url('1-reset.css?v=2');
+@import url('2-media.css?v=2');
+
+
+/* 2. HTML ROOT  ============================================================================= */
+body, button, input, select, textarea {font: 100%/1.5 'HelveticaNeue', Helvetica, sans-serif; *font-size: 1em; color: #333; -webkit-font-smoothing:antialiased; font-smoothing:antialiased; text-rendering:optimizeLegibility;}
+button, input, select, textarea {font: 100%/1.5 'HelveticaNeue', Helvetica, Arial, sans-serif; *font-size: 1em;} 
+a { text-decoration: none; position: relative;}
+
+
+/* 3. TYPOGRAPHY  ================================================================================================================================ */
+h1, h2, h3, h4, h5, h6 {color:#222;}
+h1, h2, .widget, .widget-txt-stat {font-family: 'Univers LT W01 75 black', Helvetica, Arial, sans-serif; letter-spacing: -.078em;}
+h1 {margin: 0; font-size: 48px; line-height: 1.2em; margin-bottom: 0.37em; margin-left: 7px;}
+h2 {margin: 0; font-size: 27px; line-height: 1em; margin-bottom: 0.5em; font-weight: bold;} 
+h3 {margin: 0; font-size: 21px; -webkit-margin-before: 0; -webkit-margin-after: 0; margin-bottom: 5px; margin-left: 7px; letter-spacing: -.078em;}
+h4 {margin: 0; font-size: 14px; line-height: 1em; letter-spacing: 0; margin-bottom: 1em; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif;} 
+p, h2 {font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; font-weight: normal; letter-spacing: 0;}
+h2 {font-weight: bold;}
+
+
+/* 4. FORMS  ================================================================================================================================ */
+
+
+
+
+
+/* 5. CONTENT  ================================================================================================================================ */
